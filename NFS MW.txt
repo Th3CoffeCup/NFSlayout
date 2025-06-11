@@ -1,4 +1,4 @@
-/*Layout created by Th3CoffeeCupua*/
+<!-- (c) Layout created by Th3CoffeeCupua -->
 
 <style>
   /* 0) Load Eurostile Bold & Regular via jsDelivr */
