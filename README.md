@@ -9,4 +9,6 @@ Everything is also very simple. You need to go to the txt file with the name of 
 #Layouts showcase
 
 1. NFS Most Wanted
-![image](https://github.com/user-attachments/assets/24148c7a-a88e-435b-a534-ae6a6c584dbc)
+![image](https://github.com/user-attachments/assets/ca1ef285-bedb-4ca9-b1fb-a04045bf2bf8)
+
+
